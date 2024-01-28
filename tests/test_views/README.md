@@ -1,0 +1,1 @@
+Here I'd add tests that make requests to a test REST client and then check the responses as well as the data saved to DB

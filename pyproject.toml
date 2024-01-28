@@ -11,6 +11,8 @@ django = "^5.0.1"
 djangorestframework = "^3.14.0"
 djangorestframework-jsonapi = {version = "^6.1.0", extras = ["django-filter"]}
 django-filter = "^23.5"
+pytest = "^8.0.0"
+pytest-django = "^4.7.0"
 
 
 [build-system]
